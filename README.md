@@ -26,8 +26,8 @@ This project was created to provide a comprehensive solution for managing salon 
 ## Login page
 ![image alert](https://github.com/SandaruwanChandrasena/ITP-Salon-Management-System/blob/2a31bad76c566440eecd413cd936cb835a0a94db/Login%20Page.png)
 
-## Login page
-![image alert](https://github.com/SandaruwanChandrasena/ITP-Salon-Management-System/blob/2a31bad76c566440eecd413cd936cb835a0a94db/Login%20Page.png)
+## Dash Board
+![image alert](https://github.com/SandaruwanChandrasena/ITP-Salon-Management-System/blob/50975272fc2668c73fa992d6e6f7868b5f5e0ac0/DashBoard.png)
 
 ## Login page
 ![image alert](https://github.com/SandaruwanChandrasena/ITP-Salon-Management-System/blob/2a31bad76c566440eecd413cd936cb835a0a94db/Login%20Page.png)
