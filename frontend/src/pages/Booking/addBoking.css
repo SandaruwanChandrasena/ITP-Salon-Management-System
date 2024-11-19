@@ -1,0 +1,69 @@
+.App{
+  background-image: url("./background-img-1.jpg");
+  background-size: cover;
+  background-blend-mode: lighten;
+  min-height: 700px;
+}
+
+.add-Booking {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top:5%;
+    background-color: #f26c6d;
+  }
+  .add-Booking h2{
+      text-align: center;
+  }
+
+  .add-Booking form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-Booking label {
+    margin-bottom: 10px;
+  }
+
+  .add-Booking form #service{
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  .add-Booking form label{
+    text-align: left !important;
+  }
+  .add-Booking input[type="text"],
+  .add-Booking input[type="date"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .add-Booking button {
+    /* position: absolute;
+    top:83%;
+    left:46%; */
+    padding: 10px 20px;
+    background-color: #36062a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .add-Booking button:hover {
+    background-color: #bd5e9d;
+  }
+  /* #btnordr{
+    position: absolute;
+    top:115%;
+  } */
+  
