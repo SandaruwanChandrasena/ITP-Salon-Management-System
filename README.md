@@ -22,3 +22,5 @@ The system consists of the following core modules:
 ## Purpose  
 
 This project was created to provide a comprehensive solution for managing salon operations effectively, while showcasing our skills in the MERN stack. 
+
+https://github.com/SandaruwanChandrasena/ITP-Salon-Management-System/blob/2a31bad76c566440eecd413cd936cb835a0a94db/Login%20Page.png
